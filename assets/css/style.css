@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+header{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 1%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+  
+    
+}
+nav{
+    margin-left: 80px;
+    position: relative;
+    
+}
+.nav-li{
+    list-style-type: none;
+    display: inline-block;
+   
+   
+    
+}
+.nav-li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: "Sora", sans-serif;
+}
+
+button {
+    background-color: #E53121;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  
+}
+
+
+
+
+
+
+
